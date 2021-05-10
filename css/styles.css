@@ -1,0 +1,56 @@
+body{
+  background-color:  hsl(233, 47%, 7%);
+  width: 1440px;
+}
+
+.middle-container{
+
+ background-color: hsl(244, 38%, 16%);
+  width:30%;
+  float: left;
+  position: absolute;
+  left: 300px;
+  bottom:100px;
+
+}
+.letter{
+  color:  hsl(277, 64%, 61%);
+
+}
+section{
+  background-image:url('C:/Users/AZRA FATHIMA/Desktop/web development/project1/images/lol.jpg');
+  width:432px;
+  height: 366.12px;
+  background-size: cover;
+  position: absolute;
+  left: 710px;
+  bottom:100px;
+
+}
+.bottom-container{
+  background:  hsl(277, 64%, 61%);
+  opacity: 0.5;
+  width:432px;
+  height:366.12px;
+}
+.font-size{
+  font-size: 15px;
+  color: hsla(0, 0%, 100%, 0.75);
+  padding-left: 50px;
+  padding-right: 50px;
+
+}
+
+.insider{
+  color: hsl(0, 0%, 100%);
+  padding-left: 50px;
+  padding-bottom: 20px;
+  padding-right: 50px;
+}
+footer{
+  color:  hsla(0, 0%, 100%, 0.6);
+  float: left;
+  padding-left: 50px;
+  padding-bottom: 40px;
+  padding-top: 30px;
+}
